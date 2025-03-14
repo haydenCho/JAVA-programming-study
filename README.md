@@ -1,2 +1,2 @@
-# -study--JAVA-programming
-자바 공부 과정에서 진행한 실습 레포지토리
+# JAVA-programming-study
+[명품 JAVA programming] 교재를 활용한 자바 공부 레포지토리
