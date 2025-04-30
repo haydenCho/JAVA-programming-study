@@ -6,11 +6,11 @@ public class RockScissorsPaper {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("가위바위보 게임입니다. 가위, 바위, 보 중에서 입력하세요");
 		
+		System.out.print("철수 >> ");
 		String boy = scanner.next();
-		System.out.println("철수 >> " + boy);
 		
+		System.out.print("영희 >> ");
 		String girl = scanner.next();
-		System.out.println("영희 >> " + girl);
 		
 		scanner.close();
 		
